@@ -2,7 +2,7 @@
 
 ## Overview
 
-We estimate an Bayesian hierarchical model which explains their attributes based on their functionality.
+We examine data about Pokemon. We estimate an Bayesian hierarchical model which explains their attributes based on their functionality.
 
 
 ## File Structure
